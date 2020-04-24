@@ -19,7 +19,7 @@ public class Demo
 		  
 		  driver.manage().window().maximize();
 		  
-		  System.out.println("Auto It")
+		  System.out.println("Auto It");
 		  
 		  driver.findElement(By.id("session_email")).sendKeys("aaa@gmail.com");
 		  
